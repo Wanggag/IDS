@@ -16,6 +16,7 @@
 ## 2、代码
 
 运行代码前确保安装有sklearn包和Tensorflow以及keras，注意Tensorflow和keras的对应关系。
+`pip install -r requirements.txt`安装环境依赖即可
 
 代码的结构如下：
 
